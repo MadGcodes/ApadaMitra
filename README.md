@@ -1,55 +1,57 @@
-# Getting Started with Create React App
+# 🛡️ Aapda Mitra – AI-Powered Disaster Resilience Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aapda Mitra is an advanced disaster management platform combining AI-powered forecasting, emotional support, and volunteer coordination to help agencies and citizens respond better to natural calamities like floods and droughts.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🔍 Overview
 
-### `npm start`
+Aapda Mitra leverages cutting-edge technologies like **LSTM**, **XGBoost**, **BERT**, and **Gemini API** to:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🔮 Forecast disaster risks over the next 10 years
+- 🌧️ Provide real-time flood/drought prediction using monsoon, drainage, and deforestation data
+- 📢 Analyze tweets & Reddit posts to detect early disaster signals using **BERT**
+- 🆘 Enable users to submit help requests in real-time
+- 💬 Integrate a mental health chatbot for PTSD & trauma support
+- 🧭 Match volunteers dynamically based on live requests
+- 📘 Offer disaster preparedness guides & state-wise emergency contacts
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## ⚙️ Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| Frontend              | Backend & ML Models           | APIs & Libraries            |
+|-----------------------|-------------------------------|-----------------------------|
+| Next.js + TypeScript  | Python, Flask/FastAPI         | Gemini API (Mental Health) |
+| Tailwind CSS          | Random Forest, XGBoost, LSTM  | DeepSeek, BERT (NLP)        |
+|                      |                               |                            |
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🎥 Watch Demo Video
+<p align="center">
+  <a href="https://drive.google.com/file/d/17IKxTyIz52BEvftnDm9CiPavdEnQcvHc/view?usp=drive_link">
+    <img src="https://github.com/MadGcodes/ApadaMitra/blob/main/src/assets/open.jpg?raw=true" width="600" alt="Watch Demo Video"/>
+  </a>
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📸 Screenshots
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-#Frontend Images
-![WhatsApp Image 2025-02-14 at 02 16 40_b0a8f065](https://github.com/user-attachments/assets/415cabfc-4144-4de2-9fed-5c8c9af1f97a)
-![WhatsApp Image 2025-02-14 at 02 16 41_3fa33041](https://github.com/user-attachments/assets/2bc4e98a-5132-41e7-a308-5ad174d5bb52)
-![WhatsApp Image 2025-02-14 at 02 16 42_8c649923](https://github.com/user-attachments/assets/6e6de775-a847-4e18-b770-bc35838ffd6d)
-![WhatsApp Image 2025-02-14 at 02 16 42_5f0c82bc](https://github.com/user-attachments/assets/ac746a55-4c09-4955-ba9b-f73a8f09eaf4)
-![WhatsApp Image 2025-02-14 at 02 16 42_9b5e26f4](https://github.com/user-attachments/assets/8f24dc5c-dcbd-45a5-9448-f9f1a022bf9d)
-![WhatsApp Image 2025-02-14 at 02 16 43_36b81dca](https://github.com/user-attachments/assets/e7dffff4-36e9-4756-808d-efa7995d9cb3)
-![WhatsApp Image 2025-02-14 at 02 16 43_88337386](https://github.com/user-attachments/assets/0616c8ed-405c-4058-af7d-662fd12fedea)
+### 🔥 Real-Time Prediction Dashboard
+![6271459710762862099](https://github.com/user-attachments/assets/d75ced5a-4bc0-4e69-b089-9cf24f19a7d5)
+![6271459710762862103](https://github.com/user-attachments/assets/79537f8e-7526-442f-bcf0-c23ed7e43968)
 
 
+### 💬 AI Mental Health Chatbot
+![6271459710762862101](https://github.com/user-attachments/assets/13f8c580-51d9-4585-a272-221e858cf7cc)
 
 
-# ApadaMitra
->>>>>>> e16254c8ce41cf72e300dfb7e53d2c092f48045f
+### 🧭 Volunteer and Emergency Contacts Dashboard
+![6271459710762862111](https://github.com/user-attachments/assets/bbcbf48c-4fca-4903-ad67-3f46ed6153d7)
+![6271459710762862105](https://github.com/user-attachments/assets/f784b5d6-fcb7-44a3-8b4b-adb49f30d811)
+
+
+
+
